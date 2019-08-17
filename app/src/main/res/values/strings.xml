@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleModular</string>
+    <string name="to_feature_a">To Module A</string>
+    <string name="to_feature_b">To Module B</string>
+</resources>
